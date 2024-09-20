@@ -13,40 +13,40 @@ You can read this book at:
 https://yuhuajing.github.io/ethernaut-book
 
 ## Table of Contents
-- [Fallback](01-Fallback/fallback.md)
-- [Fallout](02-Fallout/Fallout.md)
-- [CoinFlip](03-CoinFlip/CoinFlip.md)
-- [Telephonr](04-Telephone/Telephone.md)
-- [Token](05-Token/Token.md)
-- [Delegation](06-Delegation/Delegate.md)
-- [Force](07-Force/Force.md)
-- [Vault](08-Vault/Vault.md)
-- [King](09-King/King.md)
-- [Reentrance](10-Reentrance/Reentrance.md)
-- [Elevator](11-Elevator/Elevator.md)
-- [Privacy](12-Privacy/Privacy.md)
-- [GateKeeperOne](13-GatekeeperOne/GateKeeperOne.md)
-- [GateKeeperTwo](14-GatekeeperTwo/GateKeeperTwo.md)
-- [NaughtCoin](15-NaughtCoin/NaughtCoin.md)
-- [Preservation](16-Preservation/Preservation.md)
-- [Recovery](17-Recovery/Recovery.md)
-- [AlienCodex](19-AlienCodex/AlienCodeX.md)
-- [Denial](20-Denial/Denial.md)
-- [Shop](21-Shop/Shop.md)
-- [Dex](22-Dex/Dex.md)
-- [DexTwo](23-DexTwo/DexTwo.md)
-- [PuzzleWallet](24-PuzzleWallet/PuzzleWallet.md)
-- [Motorbike](25-Motorbike/Motorbike.md)
-- [DGoodSamaritan](27-GoodSamaritan/GoodSamaritan.md)
-- [GatekeeperThree](28-GatekeeperThree/GateKeeperThree.md)
-- [Switch](29-Switch/Switch.md)
-- [HighOrder](30-HigherOrder/HigherOrder.md)
-- [Stake](31-Stake/Stake.md)
+- [Fallback](src/01-Fallback/Fallback.md)
+- [Fallout](src/02-Fallout/Fallout.md)
+- [CoinFlip](src/03-CoinFlip/CoinFlip.md)
+- [Telephonr](src/04-Telephone/Telephone.md)
+- [Token](src/05-Token/Token.md)
+- [Delegation](src/06-Delegation/Delegate.md)
+- [Force](src/07-Force/Force.md)
+- [Vault](src/08-Vault/Vault.md)
+- [King](src/09-King/King.md)
+- [Reentrance](src/10-Reentrance/Reentrance.md)
+- [Elevator](src/11-Elevator/Elevator.md)
+- [Privacy](src/12-Privacy/Privacy.md)
+- [GateKeeperOne](src/13-GatekeeperOne/GateKeeperOne.md)
+- [GateKeeperTwo](src/14-GatekeeperTwo/GateKeeperTwo.md)
+- [NaughtCoin](src/15-NaughtCoin/NaughtCoin.md)
+- [Preservation](src/16-Preservation/Preservation.md)
+- [Recovery](src/17-Recovery/Recovery.md)
+- [AlienCodex](src/19-AlienCodex/AlienCodeX.md)
+- [Denial](src/20-Denial/Denial.md)
+- [Shop](src/21-Shop/Shop.md)
+- [Dex](src/22-Dex/Dex.md)
+- [DexTwo](src/23-DexTwo/DexTwo.md)
+- [PuzzleWallet](src/24-PuzzleWallet/PuzzleWallet.md)
+- [Motorbike](src/25-Motorbike/Motorbike.md)
+- [DGoodSamaritan](src/27-GoodSamaritan/GoodSamaritan.md)
+- [GatekeeperThree](src/28-GatekeeperThree/GateKeeperThree.md)
+- [Switch](src/29-Switch/Switch.md)
+- [HighOrder](src/30-HigherOrder/HigherOrder.md)
+- [Stake](src/31-Stake/Stake.md)
 
 ## Running locally
 To run the book locally:
-1. Install [Rust](https://www.rust-lang.org/).
-1. Install [mdBook](https://github.com/rust-lang/mdBook):
+1. Install [Rust](src/https://www.rust-lang.org/).
+1. Install [mdBook](src/https://github.com/rust-lang/mdBook):
     ```shell
     $ cargo install mdbook
     $ cargo install mdbook-katex

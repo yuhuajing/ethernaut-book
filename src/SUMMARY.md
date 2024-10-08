@@ -4,7 +4,7 @@
 
 # Category
 
-- [Fallback](01-Fallback/fallback.md)
+- [Fallback](01-Fallback/Fallback.md)
 - [Fallout](02-Fallout/Fallout.md)
 - [CoinFlip](03-CoinFlip/CoinFlip.md)
 - [Telephonr](04-Telephone/Telephone.md)

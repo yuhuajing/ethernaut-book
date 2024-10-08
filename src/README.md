@@ -1,7 +1,7 @@
 # Ethernue Development Book
 
 <p align="center">
-<img src="/src/images/intercall.png" alt="Ethernaut Book cover" width="360"/>
+<img src="/images/intercall.png" alt="Ethernaut Book cover" width="360"/>
 </p>
 
 The full code of what we'll build is stored in a separate repository:

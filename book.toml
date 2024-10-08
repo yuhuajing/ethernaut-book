@@ -1,0 +1,17 @@
+[book]
+authors = ["Huajing"]
+language = "zh"
+multilingual = false
+src = "src"
+title = "Ethereum security learning Development Book"
+description = "A book that teaches how to Solidity contracts safety."
+
+[output.html]
+curly-quotes = true
+git-repository-url = "https://github.com/yuhuajing/ethernaut-book"
+git-repository-icon = "fa-github"
+edit-url-template = "https://github.com/yuhuajing/ethernaut-book/edit/main/{path}"
+cname = "ethernut.com"
+
+[preprocessor.katex]
+after = ["links"]

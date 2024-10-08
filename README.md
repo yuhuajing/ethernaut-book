@@ -13,6 +13,7 @@ You can read this book at:
 https://yuhuajing.github.io/ethernaut-book
 
 ## Table of Contents
+
 - Fallback
   1. Fallback
 - Fallout

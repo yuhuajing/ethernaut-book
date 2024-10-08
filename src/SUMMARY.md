@@ -2,7 +2,8 @@
 
 [Ethernaut Development Book](README.md)
 
-# Category.
+# Category
+
 - [Fallback](01-Fallback/fallback.md)
 - [Fallout](02-Fallout/Fallout.md)
 - [CoinFlip](03-CoinFlip/CoinFlip.md)
